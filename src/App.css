@@ -1,0 +1,13 @@
+@import "tailwindcss";
+/* .images button img{
+    height: 15vh;
+    width: 20vw;
+    aspect-ratio: 0.1/0;
+    object-fit:cover;
+} 
+*/
+
+body{
+    background: black;
+    
+}
