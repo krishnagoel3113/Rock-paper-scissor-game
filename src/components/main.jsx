@@ -1,8 +1,8 @@
 import React from 'react'
 import headImg from '../image/headImg.jpg'
 import Rock from '../image/rock.png'
-import Paper from '../image/Paper.png'
-import Scissor from '../image/Scissors.png'
+import Paper from '../image/paper.png'
+import Scissor from '../image/scissors.png'
 import { useState } from 'react'
 const main = () => {
     const [UScore, setUScore] = useState(0)
